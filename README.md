@@ -4,7 +4,7 @@
 Hello, I'm Hema, a Software Engineer dedicated in development and automated testing, so can called SDE or SDET, and I am committed to continuous learning and growth.
 
 ![Animated Profile](https://media.giphy.com/media/3o7TKxA2mJzVYXfN9W/giphy.gif) <!-- Add a relevant animated GIF -->
-
+<!--
 ## 📫 How to reach me:
 
 <a href="https://linkedin.com/herupurnama14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-hema" height="30" width="40" /></a>
