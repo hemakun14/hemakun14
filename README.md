@@ -26,7 +26,7 @@ Software Quality Assurance  with hands-on experience in manual and automation te
 Automated testing for a cashier web application using **Cypress.io**.  
 - Covers UI interaction, form validation, and regression scenarios.  
 - Designed modular test cases for scalability and maintainability.  
-🔗 [View Repository](https://github.com/herupurnama47/Cypress-KasirAja) *(replace with actual URL)*
+🔗 [View Repository](https://github.com/hema-kun/Cypress-KasirAja)
 
 ---
 
@@ -34,7 +34,7 @@ Automated testing for a cashier web application using **Cypress.io**.
 API testing project using **Postman** for the PetStore API.  
 - Includes test collections for CRUD operations.  
 - Validates response codes, payload structure, and error handling.  
-🔗 [View Repository](https://github.com/herupurnama47/Postman-PetStore) *(replace with actual URL)*
+🔗 [View Repository](https://github.com/hema-kun/Postman-PetStore)
 
 ---
 
@@ -42,7 +42,7 @@ API testing project using **Postman** for the PetStore API.
 A simple banking system built with **Java and Spring Boot**.  
 - Implements basic banking operations: deposit, withdraw, transfer.  
 - Uses PostgreSQL for data persistence and REST API for communication.  
-🔗 [View Repository](https://github.com/herupurnama47/MiniBank-Java) *(replace with actual URL)*
+🔗 [View Repository](https://github.com/hema-kun/MiniBank-Java)
 
 ---
 
