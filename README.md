@@ -66,7 +66,7 @@ A simple banking system built with **Java and Spring Boot**.
 ## 📬 Contact Me
 
 📧 herupurnama47.hp@gmail.com  
-🔗 [LinkedIn](https://herupurnama)
+🔗 [LinkedIn](https://linkedin.com/in/herupurnama14)
 🔗 [GitHub](https://github.com/hema-kun)
 
 ---
