@@ -1,7 +1,7 @@
 ## 🧠 About Me
 
-A someone who has a high curiosity in objective and detail about product development with Quality mindset.
-Strong foundation in backend development using Java and Spring Boot.
+Someone who has a high curiosity in objective and detail about product development with Quality mindset.
+Good foundation in backend development using Java and Spring Boot.
 Software Quality Assurance  with hands-on experience in manual and automation testing. Proven ability to develop comprehensive test plans, execute various testing phases (API, SIT, UAT, Regression)
 
 
@@ -12,63 +12,12 @@ Software Quality Assurance  with hands-on experience in manual and automation te
 | Area             | Tools & Technologies                                      |
 |------------------|-----------------------------------------------------------|
 | Languages        | Java, SQL, JavaScript                                     |
-| Backend          | Spring Boot, REST API                                     |
+| Backend          | Rest API, Spring Boot                                     |
 | Database         | PostgreSQL                                                |
 | Infrastructure   | Docker, Jenkins                                           |
-| Testing          | Cypress, Postman, Katalon, Spreadsheet, E2E Testing       |
-| Agile Tools      | Jira, Slack, Figma, Monday.com, Ms.Office                 |
+| Testing          | E2E Testing, Cypress, Katalon, Postman, Spreedsheet       |
+| Agile Tools      | Figma, Jira, Ms.Office(word, excel, Ppt), Power BI        |
 
 ---
 
-## 📂 Featured Projects
-
-### 🧪 Cypress KasirAja Web Automation  
-Automated testing for a cashier web application using **Cypress.io**.  
-- Covers UI interaction, form validation, and regression scenarios.  
-- Designed modular test cases for scalability and maintainability.  
-🔗 [View Repository](https://github.com/hema-kun/Cypress-KasirAja)
-
----
-
-### 🔌 API Postman PetStore  
-API testing project using **Postman** for the PetStore API.  
-- Includes test collections for CRUD operations.  
-- Validates response codes, payload structure, and error handling.  
-🔗 [View Repository](https://github.com/hema-kun/Postman-PetStore)
-
----
-
-### 💳 MiniBank – Java Backend  
-A simple banking system built with **Java and Spring Boot**.  
-- Implements basic banking operations: deposit, withdraw, transfer.  
-- Uses PostgreSQL for data persistence and REST API for communication.  
-🔗 [View Repository](https://github.com/hema-kun/MiniBank-Java)
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Science – Pakuan University**  
-📅 GPA: 3.75  
-📝 Thesis: Automated Testing on Wikanta App using Cypress (Black-Box Method)
-
----
-
-## 🏅 Certifications
-
-- Software Testing Bootcamp – Udemy  
-- Quality Assurance – Binar Academy  
-- Java Programming – Dicoding  
-- SQL – Dicoding
-
----
-
-## 📬 Contact Me
-
-📧 herupurnama47.hp@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/herupurnama14)
-🔗 [GitHub](https://github.com/hema-kun)
-
----
-
-> “Test early, test often, and automate where it matters.”  
+> “Test early, test often, and automate where it matters.” 
