@@ -1,7 +1,7 @@
 ## 🧠 About Me
 
 Someone who has a high curiosity in objective and detail about product development with Quality mindset.
-Good foundation in backend development using Java and Spring Boot.
+Have foundation in backend development using Java and Spring Boot.
 Software Quality Assurance  with hands-on experience in manual and automation testing. Proven ability to develop comprehensive test plans, execute various testing phases (API, SIT, UAT, Regression)
 
 
