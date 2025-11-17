@@ -14,7 +14,7 @@ Someone who has a high curiosity in objective and detail about product developme
 | Database         | PostgreSQL                                                |
 | Infrastructure   | Docker, Jenkins                                           |
 | Testing          | E2E Testing, Cypress, Katalon, Postman, Spreedsheet       |
-| Agile Tools      | Figma, Jira, Ms.Office(word, excel, Ppt), Power BI        |
+| Agile Tools      | Figma, Jira, Ms.Office(word, excel), Power BI             |
 
 ---
 
