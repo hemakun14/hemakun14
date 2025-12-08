@@ -1,4 +1,4 @@
-## 🧠 About Me
+<!-- ## 🧠 About Me
 
 Someone who has a high curiosity in objective and detail about product development with Quality mindset.
 
@@ -17,5 +17,5 @@ Someone who has a high curiosity in objective and detail about product developme
 | Agile Tools      | Figma, Jira, Ms.Office(word, excel), Power BI             |
 
 ---
-
+--!>
 > “Test early, test often, and automate where it matters.” 
